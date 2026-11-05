@@ -1,0 +1,11 @@
+{
+  "name": "kcwpay-merchant-examples",
+  "private": true,
+  "type": "module",
+  "description": "KCWPay Merchant API examples for Node.js 18+ (no dependencies)",
+  "scripts": {
+    "quickstart": "node quickstart.mjs",
+    "webhook": "node webhook_receiver.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
